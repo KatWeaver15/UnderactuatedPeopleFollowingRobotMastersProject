@@ -21,7 +21,7 @@ Internal Cutaway | External Cutaway
 
 
 
-Several design issues that would need to be changed in a re-design of this chassis would include, but not be limited to the following:
+Several design issues that would need to be changed in a re-design of this robot would include, but not be limited to the following:
   1. The use of a Phase-Difference of Arrival (PDOA) UWB tracking system.  This type of UWB tracking scheme is much more compact than Time-of-Flight (TOF) UWB tracking.  Unfortunately, commercial modules for PDOA tracking are an order of magnitude more expensive than TOF UWB tracking modules.
   2. The use of other manufacturing materials and methods besides FDM 3D printing.  The sole use of FDM printing (due to a lack of alternatives, such as subtractive techniques) drove up the final materials cost significantly.
   3. The inclusion of an adjustable and/or smaller volume gearing/belt system.  The belt system included in this robot was designed to conform to the load and speed requirements during the conception of this project, but in retrospect the produced design is bulky and cannot be changed if a different motor choice is desired.
